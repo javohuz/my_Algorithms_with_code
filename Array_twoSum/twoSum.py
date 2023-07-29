@@ -19,13 +19,13 @@ Algorithm :
 on the website => leetcode.com
 Memory
 Details
-13.90mb
-Beats 98.13%of users with Python
+13.85mb
+Beats 99.62%of users with Python
 
 Runtime
 Details
-4065ms
-Beats 13.07%of users with Python
+3603ms
+Beats 15.06%of users with Python
 
 """
 
