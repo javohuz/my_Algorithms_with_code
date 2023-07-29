@@ -17,7 +17,7 @@ Algorithm : function => maxArea2
     5: if array index low < from array index high (low + 1) and back to third step (3:)
        if array index low > from array index high (high + 1) and back to third step (3:)
 
-Function maxArea1 is working only the function spends too much time and 
+Function maxArea1 is working , but the function has spent too much time and 
 failed on the website leetcode.com with Time Limit Exceeded
 
 on the website => leetcode.com (maxArea2 resalt)
